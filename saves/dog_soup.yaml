@@ -1,8 +1,0 @@
---- !ruby/object:Game
-word:
-- d
-- o
-- g
-guesses: 5
-user_guess:
-- f

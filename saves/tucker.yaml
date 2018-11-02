@@ -1,0 +1,18 @@
+--- !ruby/object:Game
+word:
+- r
+- e
+- d
+- r
+- e
+- s
+- s
+- e
+- r
+- "\n"
+guesses: 3
+user_guess:
+- a
+- e
+- i
+- o
